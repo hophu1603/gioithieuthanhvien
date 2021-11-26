@@ -1,0 +1,128 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin : 0;
+    background : url("Html/VLU.jpg") rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+}
+.hoa{
+    font-family: ink free;
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.alo{
+    text-align: center;
+    color: white;
+    
+}
+    
+.hao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: -20px;
+    letter-spacing: 15px;
+}
+.aoh{
+    font-family: ink free;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -80px;
+}
+.nhoc{
+    background-image: none;
+    background-size: 0 !important;}
+.container{
+    justify-content: center;
+    margin : 48px auto;
+    display: flex;
+}
+
+
+nav{
+    background-color: rgb(209, 211, 182);
+    height: 44px;
+    padding : 10px;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 13px 12px;
+    font-weight: bold;
+    display: block;
+    color: black;
+    margin-right: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li a:hover{
+    color: rgb(0, 158, 158);
+
+}
+nav ul li {
+    position: relative;
+    display: inline-block;
+}
+.hiep {
+    padding-left: 80px;
+    height: 50px;
+}
+
+
+.contenthai{
+    width: 100%;
+    height: 60s0px;
+    margin-top: 12px;
+    background-color: rgb(224, 224, 224);
+    
+}
+.hinhmatlo img{
+    margin-top: 55px;
+    margin-left: 40px;
+    float: left;
+    border : white solid 10px;
+    box-shadow: black 5px 5px 5px 5px;
+    height: 500px;
+    width: 360px;
+}
+.play{
+    float: right;
+    width: 50%;
+    margin-right: 320px;
+}
+
+.doanvan{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(146, 146, 146);
+    line-height: 2;
+    margin-top: -45px;
+}
+.dungchinh{
+    float: left;
+    margin-left: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tieude{
+    float: left;
+    line-height: 2;
+}
+.haicham{
+    float: left;
+    line-height: 2;
+}
+.noidung{
+    float: right;
+    line-height: 2;
+    color: rgb(146, 146, 146);
+}
+.play{
+    margin-top: 65px;
+}
+
+
+

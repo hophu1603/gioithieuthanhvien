@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin : 0;
+    background : url("VLU.jpg") rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+}
+
+.khungchinh{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+.khungmot{
+    height: 500px;
+    
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.khunghai{
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-right: 30px;
+    
+
+}
+.khungba{
+    height: 500px;
+    margin-left: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
